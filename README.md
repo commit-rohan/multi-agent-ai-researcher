@@ -46,7 +46,7 @@ multi_agent_researcher/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-agent-ai-researcher.git
+git clone https://github.com/commit-rohan/multi-agent-ai-researcher.git
 
 cd multi-agent-ai-researcher
 ```
@@ -85,13 +85,16 @@ pip install ddgs newspaper4k lxml_html_clean
 
 ---
 
-## 🔑 Configure Groq API
+## 🔑 Configure Gemini API
 
-Create a free Groq API key:
+1. Visit Google AI Studio:
+   https://aistudio.google.com/app/apikey
 
-https://console.groq.com/keys
+2. Generate a free Gemini API key.
 
-Enter your API key in the application when prompted.
+3. Enter the API key into the application when prompted.
+
+> **Note:** The Gemini API free tier has usage quotas and rate limits. If you exceed the free-tier quota, you'll need to wait for the quota to reset or use another supported provider.
 
 ---
 

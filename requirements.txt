@@ -1,3 +1,6 @@
-streamlit 
-agno>=2.2.10
-openai
+streamlit
+agno>=2.6.20
+google-genai
+ddgs
+newspaper4k
+lxml_html_clean
