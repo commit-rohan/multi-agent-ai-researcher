@@ -138,9 +138,12 @@ Coordinates all agents and generates:
 
 ## 📸 Demo
 
-Add screenshots of the application here.
+### Home Screen
+
+![Home Screen](image/Home_image.png)
 
 ---
+
 
 ## Future Improvements
 
