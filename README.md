@@ -163,6 +163,3 @@ This project is intended for educational and research purposes.
 
 ---
 
-## Acknowledgement
-
-This project is inspired by the excellent **awesome-llm-apps** repository by **Shubham Saboo**. It has been modified and customized with additional setup changes and support for alternate LLM providers.
